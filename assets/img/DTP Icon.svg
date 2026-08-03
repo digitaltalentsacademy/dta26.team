@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="537.41504"
+   height="429.88696"
+   viewBox="0 0 537.41504 429.88696"
+   overflow="hidden"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="DTP Icon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview55"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.177907"
+     inkscape:cx="430"
+     inkscape:cy="215"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="1.0-Titelblatt" />
+  <defs
+     id="defs15">
+    <linearGradient
+       x1="-4.5839238"
+       y1="4.7822733"
+       x2="362.302"
+       y2="371.53979"
+       id="linearGradient-1"
+       gradientTransform="matrix(1.0001754,0,0,0.99982459,534,325)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.098"
+         stop-color="#ED145B"
+         id="stop2" />
+      <stop
+         offset="0.1952"
+         stop-color="#E41760"
+         id="stop4" />
+      <stop
+         offset="0.3538"
+         stop-color="#CC1E6E"
+         id="stop6" />
+      <stop
+         offset="0.5541"
+         stop-color="#A42A85"
+         id="stop8" />
+      <stop
+         offset="0.7857"
+         stop-color="#6D3AA4"
+         id="stop10" />
+      <stop
+         offset="0.97"
+         stop-color="#3D48C0"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Digital-Talent-Powerpoint-1.0"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="1.0-Titelblatt"
+       fill-rule="nonzero"
+       transform="translate(-534,-325)">
+      <path
+         d="M 963.962,539.981 C 963.962,421.2296 867.732,325 748.981,325 H 534 v 107.453 c 59.3757,0 107.453,48.152 107.453,107.452 0,59.376 -48.1531,107.453 -107.453,107.453 79.5468,0 148.781,43.299 185.938,107.453 h 28.967 c 118.827,0.151 215.057,-96.079 215.057,-214.83 z"
+         id="Path"
+         fill="url(#linearGradient-1)"
+         style="fill:url(#linearGradient-1)" />
+      <rect
+         x="963.96204"
+         y="647.43396"
+         width="107.453"
+         height="107.453"
+         id="Rectangle"
+         fill="#3d48c0" />
+    </g>
+  </g>
+</svg>
