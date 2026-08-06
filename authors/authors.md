@@ -2,6 +2,7 @@
 
 Die Autoren dieser Referenz sind:
 [Dominic Tollardo](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/todo.md)
+- [Salome Spannring](spsa.md)
 * *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
 
 Begleitet durch [Ueli Niederer](niue.md)
