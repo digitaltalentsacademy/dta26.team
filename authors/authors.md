@@ -1,7 +1,10 @@
 # Die Autoren
 
-Die Autoren dieser Referenz sind:
+Die Autoren dieser Referenz sind: jetish Arifi
 
-* *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
+- [Jetish Arifi](arje.md)
+[U. Neiderer](niue.md) 
+
+* *<Ergänzene Jetish Arifi>*
 
 Begleitet durch [Ueli Niederer](niue.md)
