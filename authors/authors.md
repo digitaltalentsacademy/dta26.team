@@ -6,6 +6,7 @@ Die Autoren dieser Referenz sind:
 * [Joel Schweizer](scjo.md)
 - [Salome Spannring](spsa.md)
 * [Simon Lenggenhager](lesi.md)
+* [Maurice Oertli] (oema.md)
 * [Dominic Tollardo](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/todo.md)
 
 [Kaminski Rafal](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/kara.md)
