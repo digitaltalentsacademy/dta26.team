@@ -1,6 +1,6 @@
 # 
 
-![Tijana Filipovic]()
+![Tijana Filipovic](../img/none.jpg)
 
 ## Kurze Biographie
 
