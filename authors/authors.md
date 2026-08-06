@@ -1,8 +1,13 @@
 # Die Autoren
 
 Die Autoren dieser Referenz sind:
-[Dominic Tollardo](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/todo.md)
-* *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
-[Maurice Oertli] (oema.md)
 
+* [Yanis Ameseder](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/amya.md)
+* [Joel Schweizer](scjo.md)
+- [Salome Spannring](spsa.md)
+* [Simon Lenggenhager](lesi.md)
+* [Maurice Oertli] (oema.md)
+* [Dominic Tollardo](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/todo.md)
+
+[Kaminski Rafal](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/kara.md)
 Begleitet durch [Ueli Niederer](niue.md)
