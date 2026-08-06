@@ -4,7 +4,7 @@
 
 ## Kurze Biographie
 
-Schon in jungen Jahren begann ich meinen Weg im Sport und spielte professionell Handball. Ich war für mehrere Vereine in verschiedenen Ländern tätig. Schon immer hatte ich den Wunsch, mich mit Programmierung zu beschäftigen. Nach einer Verletzung musste ich meine sportliche Karriere vorübergehend unterbrechen und entschied mich, einen Java-Programmierkurs zu absolvieren....
+Schon in jungen Jahren begann ich meinen Weg im Sport und spielte professionell Handball. Ich war für mehrere Vereine in verschiedenen Ländern tätig. Schon immer hatte ich den Wunsch, mich mit Programmierung zu beschäftigen. Nach einer Verletzung musste ich meine sportliche Karriere vorübergehend unterbrechen und entschied mich, einen Java-Programmierkurs zu absolvieren.
 
 
 ### Meine Ausbildungsschritte
