@@ -3,6 +3,7 @@
 Die Autoren dieser Referenz sind:
 [Dominic Tollardo](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/todo.md)
 - [Salome Spannring](spsa.md)
+- [Yanis Ameseder](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/amya.md)
 * *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
 [Kaminski Rafal](https://github.com/digitaltalentsacademy/dta26.team/blob/main/authors/kara.md)
 Begleitet durch [Ueli Niederer](niue.md)
