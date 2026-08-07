@@ -1,4 +1,4 @@
-#Rafal Kaminski
+## Rafal Kaminski
 
 ![Rafal KAminski](../img/kara.jpg)
 
@@ -23,9 +23,13 @@ mit 10 jahren in die schweit zugezogen
 
 ### Sonstiges
 
+- ich habe einen **Hund**. 
+
+
+
 ###### Tabelle
 
-|hallo|hallo|
-------|----- 
-|           |
-|
+| ID      | Description |
+| ----------- | ----------- |
+| 1    | Das ist ein Test     |
+| 2   | das ist der 2te test      |
